@@ -3,7 +3,7 @@
 	url = git@github.com:infiniityr/pkb_back.git
 [submodule "pkb_front"]
 	path = pkb_front
-	url = git@github.com:infiniityr/pkb_front.get
+	url = git@github.com:infiniityr/pkb_front.git
 [submodule "pkb_infra"]
 	path = pkb_infra
 	url = git@github.com:infiniityr/pkb_infra.git

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "./pkb_back"
+		},
+		{
+			"path": "./pkb_front"
+		},
+		{
+			"path": "./pkb_infra"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
